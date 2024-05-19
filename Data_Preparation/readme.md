@@ -1,1 +1,1 @@
- use Power Query Editor to transform and shape data to be ready for analysis. Various text and numerical transformations, including multiplication, rounding, and split and merge text columns, even more efficient in data preparation.
+Using Power Query Editor to transform and shape data to be ready for analysis. Various text and numerical transformations, including multiplication, rounding, and split and merge text columns, even more efficient in data preparation.
