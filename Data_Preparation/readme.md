@@ -105,3 +105,20 @@ Additional Features:
   Text.Remove: Remove unwanted characters (punctuation, symbols).
   Text.Split: Split text into multiple columns based on delimiters (commas, tabs).
   Text.Combine: Combine multiple columns into a single column with a delimiter.
+  
+4.1 Numerical transformations in Power Query
+  Clean data for accurate analysis:
+
+No missing values or errors.
+Consider outliers (advanced topic).
+Mathematical transformations:
+
+Absolute value (removes negative values).
+Logarithmic (advanced, for exponential relationships).
+Multiply or add a value to all observations.
+Rounding (reduce decimal places, save memory).
+Date/Time transformations (not numerical):
+
+Extract specific properties (year, month).
+Derived properties (start/end of year).
+Extract age (from birth date).
