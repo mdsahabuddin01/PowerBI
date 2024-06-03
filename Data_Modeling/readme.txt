@@ -3,3 +3,8 @@ exploring a toolbox of data cleaning, shaping, and loading techniques, which can
 Getting to know how to choose between Power Query and Power BI, and discover the foundations of data modeling by going into star and snowflake schemas.
 going to apply/applied all of this to real-world datasets issued by the United States Census Bureau.
 
+
+Note: Data model - conceptual view of data models
+Data modelling - process of creating data models
+
+
